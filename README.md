@@ -10,6 +10,7 @@
 ![Kickstarter Success Rates](/images/kickstarter_logo.png)
 
 <img src="/images/kickstarter_logo.png" width="300" height="300">
+![alt](/images/kickstarter_logo.png){: width="50%"}
 
 [Kaggle](https://www.kaggle.com/code/cavalos018/kickstarter-success-rates)
 
