@@ -5,6 +5,8 @@
 ## Education
 - B.S., Business Analytics | Lewis University (_May 2025_)
 
+<br />
+
 ## Projects
 ### Kickstarter Success Rates
 ![alt](/images/kickstarter_logo.png){: width="50%"}
@@ -12,6 +14,8 @@
 [Project Link](https://www.kaggle.com/code/cavalos018/kickstarter-success-rates)
 
 Using this Kickstarter dataset provided by Kaggle.com, I cleaned and calculated both the success and failure rates for each project category using **Python**. Additionally, I created visualizations to provide valuable insights.
+
+<br />
 
 ## Work Experience
 
@@ -37,14 +41,20 @@ Using this Kickstarter dataset provided by Kaggle.com, I cleaned and calculated 
 - Proficiently and attentively managed patient check in and check out to enhance their experience.
 - Independently oversaw administrative duties in the manager’s absence, including end of day reports.
 
+<br />
+
 ## Scholarships / Awards
 - Lewis University Dean's List (_January 2023 - May 2024_)
 - Lewis University Achievement Scholarship (_January 2023 - May 2025_)
 - Seal of Biliteracy (_May 2020_)
 
+<br />
+
 ## Languages
 - English
 - Spanish
+
+<br />
 
 ## Links
 - [Linkedin](https://www.linkedin.com/in/claudiaavalos18/)
