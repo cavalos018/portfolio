@@ -1,6 +1,6 @@
 # Data Analyst Portfolio
 
-#### Skills: Microsoft Excel, Tableau, MySQL, Python, Weka
+#### Skills: Microsoft Excel, MySQL, Tableau, Python, Weka
 
 <br />
 
