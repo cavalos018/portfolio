@@ -7,7 +7,7 @@
 
 ## Projects
 ### Kickstarter Success Rates
-[Kickstarter Success Rates](/images/kickstarter_logo.png)
+![Kickstarter Success Rates](/images/kickstarter_logo.png)
 
 <img src="/images/kickstarter_logo.png" width="300" height="300"/>
 
