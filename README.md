@@ -15,7 +15,7 @@ Lewis University (_January 2023 - May 2025_)
 ### Kickstarter Success Rates
 ![alt](/images/kickstarter_logo.png){: width="50%"}
 
-[Project Link](https://www.kaggle.com/code/cavalos018/kickstarter-success-rates) {target="_blank"}
+[Project Link](https://www.kaggle.com/code/cavalos018/kickstarter-success-rates)
 
 Using this Kickstarter dataset provided by Kaggle.com, I cleaned and calculated both the success and failure rates for each project category using **Python**. Additionally, I created visualizations to provide valuable insights.
 
@@ -61,5 +61,5 @@ Using this Kickstarter dataset provided by Kaggle.com, I cleaned and calculated 
 <br />
 
 ## Links
-- [Linkedin](https://www.linkedin.com/in/claudiaavalos18/) {target="_blank"}
-- [Merit - Student Achievements](https://meritpages.com/claudiaavalos) {target="_blank"}
+- [Linkedin](https://www.linkedin.com/in/claudiaavalos18/)
+- [Merit - Student Achievements](https://meritpages.com/claudiaavalos)
