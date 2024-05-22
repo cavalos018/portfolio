@@ -1,13 +1,17 @@
 # Aspiring Data Analyst
 
-### Education
+## Education
 Bachelor of Science in Business Analytics | Lewis University (_January 2023 - May 2025_)
 
-### Projects
+#### Skills: Microsoft Excel, Tableau, MySQL, Python, Weka
 
+## Projects
+### Kickstarter Success Rates
+[Python Code](https://www.kaggle.com/code/cavalos018/kickstarter-success-rates)
 
+Using this Kickstarter dataset provided by Kaggle.com, I cleaned and calculated both the success and failure rates for each project category using **Python**. Additionally, I created visualizations to provide valuable insights.
 
-### Work Experience
+## Work Experience
 **Dental Insurance Coordinator (_May 2023 - August 2023_)**
 - Used strong data entry skills to process over 60 patient records daily while performing seamless entry of private information.
 - Answered and directed a daily volume of 30 or more patient phone calls and messages.
