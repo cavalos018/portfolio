@@ -2,6 +2,8 @@
 
 #### Skills: Microsoft Excel, Tableau, MySQL, Python, Weka
 
+<br />
+
 ## Education
 **Bachelor of Science in Business Analytics** 
 
