@@ -3,8 +3,7 @@
 #### Skills: Microsoft Excel, Tableau, MySQL, Python, Weka
 
 ## Education
-### Bachelor of Science in Business Analytics
-**Lewis University (_January 2023 - May 2025_)**
+**Bachelor of Science in Business Analytics** | Lewis University (_January 2023 - May 2025_)
 
 <br />
 
