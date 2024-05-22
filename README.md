@@ -7,7 +7,8 @@ Bachelor of Science in Business Analytics | Lewis University (_January 2023 - Ma
 
 ## Projects
 ### Kickstarter Success Rates
-[Python Code](https://www.kaggle.com/code/cavalos018/kickstarter-success-rates)
+![Kickstarter Success Rates](images/kickstarter_logo.png)
+[Kaggle](https://www.kaggle.com/code/cavalos018/kickstarter-success-rates)
 
 Using this Kickstarter dataset provided by Kaggle.com, I cleaned and calculated both the success and failure rates for each project category using **Python**. Additionally, I created visualizations to provide valuable insights.
 
