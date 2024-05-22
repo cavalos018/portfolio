@@ -9,6 +9,8 @@
 ### Kickstarter Success Rates
 [Kickstarter Success Rates](/images/kickstarter_logo.png)
 
+<img src="/images/kickstarter_logo.png" width="300" height="300"/>
+
 [Kaggle](https://www.kaggle.com/code/cavalos018/kickstarter-success-rates)
 
 Using this Kickstarter dataset provided by Kaggle.com, I cleaned and calculated both the success and failure rates for each project category using **Python**. Additionally, I created visualizations to provide valuable insights.
