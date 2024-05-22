@@ -3,7 +3,7 @@
 #### Skills: Microsoft Excel, Tableau, MySQL, Python, Weka
 
 ## Education
-Bachelor of Science in Business Analytics | Lewis University (_January 2023 - May 2025_)
+- Bachelor of Science in Business Analytics | Lewis University (_January 2023 - May 2025_)
 
 ## Projects
 ### Kickstarter Success Rates
@@ -37,13 +37,15 @@ Using this Kickstarter dataset provided by Kaggle.com, I cleaned and calculated 
 - Proficiently and attentively managed patient check in and check out to enhance their experience.
 - Independently oversaw administrative duties in the manager’s absence, including end of day reports.
 
-### Scholarships / Awards
+## Scholarships / Awards
 - Lewis University Dean's List (_January 2023 - May 2024_)
 - Lewis University Achievement Scholarship (_January 2023 - May 2025_)
 - Seal of Biliteracy (_May 2020_)
 
-### Languages
+## Languages
 - English
 - Spanish
 
-
+## Links
+- [Linkedin](https://www.linkedin.com/in/claudiaavalos18/)
+- [Merit - Student Achievements](https://meritpages.com/claudiaavalos)
