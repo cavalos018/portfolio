@@ -1,6 +1,5 @@
 title: Claudia Avalos
-logo: <img src="images/headshot.jpg" width="300" height="300"/>
-#/assets/img/headshot_circle.png
+logo: /images/headshot.jpg
 #description: Aspiring Data Analyst
 #show_dowloads: true
 theme: jekyll-theme-minimal
