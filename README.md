@@ -7,7 +7,7 @@
 
 ## Projects
 ### Kickstarter Success Rates
-<img src="/images/kickstarter_logo.png" width="300" height="300"/>
+[Kickstarter Success Rates](/images/kickstarter_logo.png)
 
 [Kaggle](https://www.kaggle.com/code/cavalos018/kickstarter-success-rates)
 
