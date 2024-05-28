@@ -9,6 +9,10 @@
 
 Lewis University (_January 2023 - May 2025_)
 
+**Associate in Science** 
+
+College of Dupage (_August 2020 - December 2022_)
+
 <br />
 
 ## Projects
