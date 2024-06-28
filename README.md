@@ -27,6 +27,12 @@ Using this Kickstarter dataset provided by Kaggle.com, I cleaned and calculated 
 
 ## Work Experience
 
+### Research Data Entry Specialist
+**AMR Baber Research (_May 2024 - Present_)**
+- Diligently enter data with meticulous attention to detail to ensure data integrity.
+- Identify and resolve data related queries promptly to minimize delays.
+- Recruit trial subjects, collect, and analyze data according to study protocol.
+
 ### Dental Insurance Coordinator
 **Dental Smiles of Bolingbrook (_May 2023 - August 2023_)**
 - Used strong data entry skills to process over 60 patient records daily while performing seamless entry of private information.
