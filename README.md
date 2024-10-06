@@ -1,6 +1,7 @@
 # Data Analyst Portfolio
 
-#### Skills: Microsoft Excel, MySQL, Tableau, Python, Weka
+#### Technical Skills: Analytical business reports, business case studies, Microsoft Excel, Microsoft PowerPoint, Python programming, SQL programming, Tableau, Weka
+#### Soft Skills: Adaptability, communication, organization, teamwork
 
 <br />
 
@@ -8,10 +9,9 @@
 **Bachelor of Science in Business Analytics** 
 
 Lewis University (_January 2023 - May 2025_)
-
-**Associate in Science** 
-
-College of Dupage (_August 2020 - December 2022_)
+- Lewis University Cofounder and Vice President of Business Analytics Club
+-	Lewis University Dean’s List 	
+-	Lewis University Achievement Scholarship
 
 <br />
 
@@ -31,8 +31,7 @@ Using this Kickstarter dataset provided by Kaggle.com, I cleaned and calculated 
 **AMR Baber Research (_May 2024 - August 2024_)**
 - Diligently entered data with meticulous attention to detail to ensure data integrity.
 - Identified and resolved data related queries promptly to minimize delays.
-- Recruited trial subjects, collected, and analyzed data using both internal databases and referrals in
-accordance with study protocol.
+- Recruited trial subjects, collected, and analyzed data using both internal databases and referrals in accordance with study protocol.
 
 ### Dental Insurance Coordinator
 **Dental Smiles of Bolingbrook (_May 2023 - August 2023_)**
@@ -55,13 +54,6 @@ accordance with study protocol.
 - Consistently and efficiently scheduled an average of 20 new patients on a monthly basis.
 - Proficiently and attentively managed patient check in and check out to enhance their experience.
 - Independently oversaw administrative duties in the manager’s absence, including end of day reports.
-
-<br />
-
-## Scholarships / Awards
-- Lewis University Dean's List (_January 2023 - May 2024_)
-- Lewis University Achievement Scholarship (_January 2023 - May 2025_)
-- Seal of Biliteracy (_May 2020_)
 
 <br />
 
