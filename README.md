@@ -1,14 +1,14 @@
 # Data Analyst Portfolio
+**Technical Skills:** Analytical business reports, business case studies, Microsoft Excel, Microsoft PowerPoint, Python programming, SQL programming, Tableau, Weka
 
-#### Technical Skills: Analytical business reports, business case studies, Microsoft Excel, Microsoft PowerPoint, Python programming, SQL programming, Tableau, Weka
-#### Soft Skills: Adaptability, communication, organization, teamwork
+**Soft Skills:** Adaptability, communication, organization, teamwork
 
 <br />
 
 ## Education
-**Bachelor of Science in Business Analytics** 
+### Bachelor of Science in Business Analytics
 
-Lewis University (_January 2023 - May 2025_)
+**Lewis University (_January 2023 - May 2025_)**
 - Lewis University Cofounder and Vice President of Business Analytics Club
 -	Lewis University Dean’s List 	
 -	Lewis University Achievement Scholarship
